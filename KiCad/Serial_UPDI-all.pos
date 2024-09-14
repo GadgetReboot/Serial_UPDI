@@ -1,0 +1,27 @@
+### Footprint positions - created on 2024-09-02T14:43:43-0400 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                                             PosX       PosY       Rot  Side
+G***      LOGO              pcb_way_logo                                     13.8250    22.9000  180.0000  bottom
+C1        1uF               C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      11.5750    19.2000  -90.0000  top
+C2        100nF             C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      18.8210    11.7950  -90.0000  top
+C3        1uF               C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      18.2000    19.2250    0.0000  top
+C4        100nF             C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      18.1250    15.8000    0.0000  top
+D1        Activity          LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    13.4726    24.4580  -90.0000  top
+D2        BAT54GWJ          SOD-123                                          14.4500     9.4500    0.0000  top
+D3        Power             LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     7.9250    24.4500  -90.0000  top
+F1        MF-FSMF050X       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder       9.4250    20.5000   90.0000  top
+J1        USB_C_Receptacle  USB_C_Receptacle_XKB_U262-16XN-4BVC11             3.8750    14.1000  -90.0000  top
+J2        Conn_01x03        PinHeader_1x03_P2.54mm_Vertical                  26.5500    16.8900    0.0000  top
+R1        5K1               R_0805_2012Metric_Pad1.15x1.40mm_HandSolder       3.8040    20.4410    0.0000  top
+R2        5K1               R_0805_2012Metric_Pad1.15x1.40mm_HandSolder       3.8170     7.6880    0.0000  top
+R3        470r              R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      14.4250     7.3500  180.0000  top
+R4        470r              R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      11.3500    24.4750   90.0000  top
+R5        3K3               R_0805_2012Metric_Pad1.15x1.40mm_HandSolder       5.5750    24.4500   90.0000  top
+SW1       SW_SPDT           SW_SPDT_PCM12_                                   15.0000     2.2250    0.0000  top
+TP1       TestPoint         TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded          7.0250     3.8000    0.0000  top
+TP2       TestPoint         TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded          3.3250     3.8000    0.0000  top
+U1        XC6206P332MR-G    SOT-23                                           14.3000    19.0500   90.0000  top
+U2        CH340E            MSOP-10_3x3mm_P0.5mm                             14.4052    13.3511    0.0000  top
+## End
